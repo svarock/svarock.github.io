@@ -3,7 +3,7 @@ logo: "/images/avatar.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <p>A highly experienced and competent WordPress web developer with 5 years’ experience.</p>
   <p>A rational approach to problem-solving leads to reliability and fast solutions in WordPress development.</p>
-  <a href="www.linkedin.com/in/dmitriy-permenove-1807abc175/">View My LinkedIn Profile</a> 
+  <a href="http://www.linkedin.com/in/dmitriy-permenove-1807abc175/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-149274488-1 # your Google Analytics tracking ID here
