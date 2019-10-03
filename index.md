@@ -18,7 +18,6 @@
 - [volodarka.com](http://volodarka.com)
 - [www.armadadelivery.com/](https://www.armadadelivery.com/)
 - [war.org.ua](http://war.org.ua)
-- [www.armadadelivery.com/](https://www.bringclean.se)
 - [grapegroupies.ca](https://grapegroupies.ca/)
 
 ### Sites with existing custom themes
