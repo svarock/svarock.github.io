@@ -4,15 +4,15 @@
 
 ### Themes from scratch 
 
-1. [inglewoodpizza.ca](http://inglewoodpizza.ca/)
+1.[inglewoodpizza.ca](http://inglewoodpizza.ca/)
 
 ![inglewoodpizza.ca](/images/inglewood.png)
 
-2. [x-systems.com](http://x-systems.com/)
+2.[x-systems.com](http://x-systems.com/)
 
 ![x-systems.com](/images/x-systems.png)
 
-3. [www.mosssidevillagepreschool.co.uk](http://www.mosssidevillagepreschool.co.uk/)
+3.[www.mosssidevillagepreschool.co.uk](http://www.mosssidevillagepreschool.co.uk/)
 
 ![www.mosssidevillagepreschool.co.uk](/images/pre-school.png)
 
