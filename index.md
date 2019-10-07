@@ -8,8 +8,14 @@
 
 ![inglewoodpizza.ca](/images/inglewood.png)
 
-- [x-systems.com](http://x-systems.com/)
-- [www.mosssidevillagepreschool.co.uk](http://www.mosssidevillagepreschool.co.uk/)
+2. [x-systems.com](http://x-systems.com/)
+
+![x-systems.com](/images/x-systems.png)
+
+3. [www.mosssidevillagepreschool.co.uk](http://www.mosssidevillagepreschool.co.uk/)
+
+![www.mosssidevillagepreschool.co.uk](/images/pre-school.png)
+
 - [ilevant.com](http://ilevant.com/)
 - [18.207.110.27](http://18.207.110.27)
 - [killingfieldsmovie.com](https://killingfieldsmovie.com)
