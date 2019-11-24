@@ -2,7 +2,6 @@
 
 ---
 
-### Themes from scratch 
 
 1.[inglewoodpizza.ca](http://inglewoodpizza.ca/)
 
@@ -82,72 +81,67 @@
 
 ![www.starfix.at](/images/starfix.png)
 
-
-### Sites with existing custom themes
-
----
-
-1.[apll.sols.org](http://apll.sols.org)
+16.[apll.sols.org](http://apll.sols.org)
 
 ![bringclean.se](/images/ilevant.png)
 
 
-2.[superyachttechnologynews.com](https://superyachttechnologynews.com/)
+17.[superyachttechnologynews.com](https://superyachttechnologynews.com/)
 
 ![bringclean.se](/images/news.png)
 
 
-3.[www.superyachttechnologyconference.com](https://www.superyachttechnologyconference.com/)
+18.[www.superyachttechnologyconference.com](https://www.superyachttechnologyconference.com/)
 
 ![bringclean.se](/images/auperachttechnology.png)
 
 
-4.[constructionlafayette.com](https://constructionlafayette.com/)
+19.[constructionlafayette.com](https://constructionlafayette.com/)
 
 ![bringclean.se](/images/construction.png)
 
 
-5.[binefeld-verlag.com](http://binefeld-verlag.com)
+20.[binefeld-verlag.com](http://binefeld-verlag.com)
 
 ![bringclean.se](/images/binefeld.png)
 
 
-6.[www.comparedubai.ae](https://www.comparedubai.ae)
+21.[www.comparedubai.ae](https://www.comparedubai.ae)
 
 ![bringclean.se](/images/comparedubai.png)
 
 
-7.[www.hiltonskinclinics.co.uk](https://www.hiltonskinclinics.co.uk)
+22.[www.hiltonskinclinics.co.uk](https://www.hiltonskinclinics.co.uk)
 
 ![bringclean.se](/images/hiltonsklinics.png)
 
 
-8.[aesthetikadentalstudio.co.uk](https://aesthetikadentalstudio.co.uk)
+23.[aesthetikadentalstudio.co.uk](https://aesthetikadentalstudio.co.uk)
 
 ![bringclean.se](/images/aesthetics.png)
 
 
-9.[coolsculptcentre.co.uk](http://coolsculptcentre.co.uk)
+24.[coolsculptcentre.co.uk](http://coolsculptcentre.co.uk)
 
 ![bringclean.se](/images/coolsculpt.png)
 
 
-10.[pslb.mkpactive.com](http://pslb.mkpactive.com)
+25.[pslb.mkpactive.com](http://pslb.mkpactive.com)
 
 ![bringclean.se](/images/pslb.png)
 
 
-11.[laserdocs2.mkpactive.com](http://laserdocs2.mkpactive.com)
+26.[laserdocs2.mkpactive.com](http://laserdocs2.mkpactive.com)
 
 ![bringclean.se](/images/laserdocs.png)
 
 
-12.[www.merexyachtscharter.com](https://www.merexyachtscharter.com)
+27.[www.merexyachtscharter.com](https://www.merexyachtscharter.com)
 
 ![bringclean.se](/images/merexyachts.png)
 
 
-13.[americars.com.ua](https://americars.com.ua)
+28.[americars.com.ua](https://americars.com.ua)
 
 ![bringclean.se](/images/americars.png)
 
