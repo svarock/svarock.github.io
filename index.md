@@ -12,7 +12,7 @@
 ![inglewoodpizza.ca](/images/inglewood.png)
 
 
-[http://www.starfix.at/](http://www.starfix.at/)
+[www.starfix.at](http://www.starfix.at/)
 
 ![www.starfix.at](/images/starfix.png)
 
