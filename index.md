@@ -5,7 +5,7 @@
 
 [www.verkaeuferschule.de](https://www.verkaeuferschule.de/)
 
-![www.verkaeuferschule.de](/images/www.verkaeuferschule.de.png)
+![www.verkaeuferschule.de](/images/verkaeuferschule.png)
 
 [inglewoodpizza.ca](http://inglewoodpizza.ca/)
 
