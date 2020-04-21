@@ -104,7 +104,7 @@
 
 [one30m.com](http://one30m.com/)
 
-![one30m.com](/images/one30m.com)
+![one30m.com](/images/one30m.png)
 
 
 [superyachttechnologynews.com](https://superyachttechnologynews.com/)
