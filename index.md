@@ -97,6 +97,16 @@
 ![bringclean.se](/images/ilevant.png)
 
 
+[averous.co](https://averous.co/)
+
+![averous.co](/images/averous.png)
+
+
+[one30m.com](http://one30m.com/)
+
+![one30m.com](/images/one30m.com)
+
+
 [superyachttechnologynews.com](https://superyachttechnologynews.com/)
 
 ![bringclean.se](/images/news.png)
